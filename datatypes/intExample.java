@@ -9,8 +9,10 @@ public class intExample {
         int k = 23482398409; 
 
         */
+        int k = 2348923;
         System.out.println("print the intExample i ::" + i);
         System.out.println("print the intExample j ::" + j);
+        System.out.println("print the intExample k ::" + j);
     }
 
 }
